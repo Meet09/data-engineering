@@ -1,6 +1,6 @@
 # Data Engineer
 
-### Starting with PostgreSQL and PGADMIN
+### Starting with PostgreSQL and PGADMIN 4
 ### Starting with NoSQL Databases
 ##### Cassandra
 ##### MongoDB
